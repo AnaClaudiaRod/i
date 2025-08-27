@@ -4,7 +4,6 @@
 ### **Sobre mim**  
 Olá, sou a **Ana Claudia**, estudante de Análise e desenvolvimento de sistemas, apaixonada por tecnologia e inovação. 
 
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
